@@ -35,19 +35,19 @@ export const products: Product[] = [
     images: [
       {
         id: "1-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/27 î«¡¿Γ«α Xiaomi G27i.webp",
         alt: "Xiaomi G27i - вид спереди",
         isPrimary: true,
       },
       {
         id: "1-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/27 î«¡¿Γ«α Xiaomi G27i τÑα¡δ⌐.webp",
         alt: "Xiaomi G27i - вид сзади",
         isPrimary: false,
       },
       {
         id: "1-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/27 î«¡¿Γ«α Xiaomi G27i τÑα¡δ⌐ ßºáñ¿.webp",
         alt: "Xiaomi G27i - интерфейсы",
         isPrimary: false,
       },
@@ -94,20 +94,20 @@ export const products: Product[] = [
     images: [
       {
         id: "2-1",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "ASUS DUAL-RX7800XT-O16G - вид сверху",
+        url: "/steelsmart/ASUS DUAL-RX7800XT-O16G - αáºΩÑ¼δ.webp",
+        alt: "ASUS DUAL-RX7800XT-O16G",
         isPrimary: true,
       },
       {
         id: "2-2",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "ASUS DUAL-RX7800XT-O16G - вид сбоку",
+        url: "/steelsmart/ASUS DUAL-RX7800XT-O16G - ó¿ñ ßí«¬π.webp",
+        alt: "ASUS DUAL-RX7800XT-O16G",
         isPrimary: false,
       },
       {
         id: "2-3",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "ASUS DUAL-RX7800XT-O16G - разъемы",
+        url: "/steelsmart/é¿ñÑ«¬áαΓá AMD Radeon RX 7800 XT.webp",
+        alt: "ASUS DUAL-RX7800XT-O16G",
         isPrimary: false,
       },
     ],
@@ -155,20 +155,26 @@ export const products: Product[] = [
     images: [
       {
         id: "3-1",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung Galaxy S23 Ultra - вид спереди",
+        url: "/steelsmart/æ¼áαΓΣ«¡ Samsung Galaxy S23 Ultra.png",
+        alt: "Samsung Galaxy S23 Ultra",
         isPrimary: true,
       },
       {
         id: "3-2",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung Galaxy S23 Ultra - вид сзади",
+        url: "/steelsmart/Samsung Galaxy S23 Ultra - ó¿ñ ßºáñ¿.png",
+        alt: "Samsung Galaxy S23 Ultra",
         isPrimary: false,
       },
       {
         id: "3-3",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung Galaxy S23 Ultra - камера",
+        url: "/steelsmart/Samsung Galaxy S23 Ultra - ó¿ñ ß»ÑαÑñ¿.png",
+        alt: "Samsung Galaxy S23 Ultra",
+        isPrimary: false,
+      },
+      {
+        id: "3-4",
+        url: "/steelsmart/Samsung Galaxy S23 Ultra - ¬á¼Ñαá.jpg",
+        alt: "Samsung Galaxy S23 Ultra",
         isPrimary: false,
       },
     ],
@@ -221,20 +227,26 @@ export const products: Product[] = [
     images: [
       {
         id: "4-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/apple-iphone-15-pro-max.webp",
         alt: "Apple iPhone 15 Pro Max - вид спереди",
         isPrimary: true,
       },
       {
         id: "4-2",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Apple iPhone 15 Pro Max - вид сзади",
+        url: "/steelsmart/Apple iPhone 15 Pro Max - ¬á¼Ñαá.webp",
+        alt: "Apple iPhone 15 Pro Max",
         isPrimary: false,
       },
       {
         id: "4-3",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Apple iPhone 15 Pro Max - камера",
+        url: "/steelsmart/Apple iPhone 15 Pro Max - ó¿ñ ß»ÑαÑñ¿.webp",
+        alt: "Apple iPhone 15 Pro Max",
+        isPrimary: false,
+      },
+      {
+        id: "4-4",
+        url: "/steelsmart/Apple iPhone 15 Pro Max - ó¿ñ ßºáñ¿.webp",
+        alt: "Apple iPhone 15 Pro Max",
         isPrimary: false,
       },
     ],
@@ -288,19 +300,19 @@ export const products: Product[] = [
     images: [
       {
         id: "5-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Sony PlayStation 5 Slim Digital Edition ß ¬«¡Γα«½½Ñα«¼.webp",
         alt: "Sony PlayStation 5 Slim Digital Edition - вид спереди",
         isPrimary: true,
       },
       {
         id: "5-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Sony PlayStation 5 Slim Digital Edition - ó¿ñ ßí«¬π.webp",
         alt: "Sony PlayStation 5 Slim Digital Edition - вид сбоку",
         isPrimary: false,
       },
       {
         id: "5-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Sony PlayStation 5 Slim Digital Edition - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "Sony PlayStation 5 Slim Digital Edition с контроллером",
         isPrimary: false,
       },
@@ -347,20 +359,20 @@ export const products: Product[] = [
     images: [
       {
         id: "6-1",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung 990 EVO Plus 1TB - вид сверху",
+        url: "/steelsmart/Samsung 990 EVO Plus 1TB - π»á¬«ó¬á.webp",
+        alt: "Samsung 990 EVO Plus 1TB",
         isPrimary: true,
       },
       {
         id: "6-2",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung 990 EVO Plus 1TB - вид снизу",
+        url: "/steelsmart/Samsung 990 EVO Plus 1TB - ó¿ñ ß¡¿ºπ.webp",
+        alt: "Samsung 990 EVO Plus 1TB",
         isPrimary: false,
       },
       {
         id: "6-3",
-        url: "/placeholder.svg?height=300&width=300",
-        alt: "Samsung 990 EVO Plus 1TB - упаковка",
+        url: "/steelsmart/Samsung 990 EVO Plus 1TB - ó¿ñ ßóÑασπ.webp",
+        alt: "Samsung 990 EVO Plus 1TB",
         isPrimary: false,
       },
     ],
@@ -409,19 +421,19 @@ export const products: Product[] = [
     images: [
       {
         id: "7-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple iPad Pro M2 11-inch - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "Apple iPad Pro M2 11-inch - вид спереди",
         isPrimary: true,
       },
       {
         id: "7-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple iPad Pro M2 11-inch ß Apple Pencil.webp",
         alt: "Apple iPad Pro M2 11-inch - вид сзади",
         isPrimary: false,
       },
       {
         id: "7-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple iPad Pro M2 11-inch ßºáñ¿.webp",
         alt: "Apple iPad Pro M2 11-inch с Apple Pencil",
         isPrimary: false,
       },
@@ -472,19 +484,19 @@ export const products: Product[] = [
     images: [
       {
         id: "8-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Galaxy Tab S9 Ultra - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "Samsung Galaxy Tab S9 Ultra - вид спереди",
         isPrimary: true,
       },
       {
         id: "8-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Galaxy Tab S9 Ultra - ó¿ñ ßºáñ¿.webp",
         alt: "Samsung Galaxy Tab S9 Ultra - вид сзади",
         isPrimary: false,
       },
       {
         id: "8-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Galaxy Tab S9 Ultra -s pencil.webp",
         alt: "Samsung Galaxy Tab S9 Ultra с S Pen",
         isPrimary: false,
       },
@@ -537,19 +549,19 @@ export const products: Product[] = [
     images: [
       {
         id: "9-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/ASUS ROG Zephyrus G16 - ¬½áó¿áΓπαá.webp",
         alt: "ASUS ROG Zephyrus G16 - вид спереди",
         isPrimary: true,
       },
       {
         id: "9-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/ASUS ROG Zephyrus G16 - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "ASUS ROG Zephyrus G16 - вид сбоку",
         isPrimary: false,
       },
       {
         id: "9-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/ASUS ROG Zephyrus G16 - ó¿ñ ßí«¬π.webp",
         alt: "ASUS ROG Zephyrus G16 - клавиатура",
         isPrimary: false,
       },
@@ -608,19 +620,19 @@ export const products: Product[] = [
     images: [
       {
         id: "10-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple MacBook Pro 14 M3 Pro - ¬½áó¿áΓπαá.webp",
         alt: "Apple MacBook Pro 14 M3 Pro - вид спереди",
         isPrimary: true,
       },
       {
         id: "10-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple MacBook Pro 14 M3 Pro - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "Apple MacBook Pro 14 M3 Pro - вид сбоку",
         isPrimary: false,
       },
       {
         id: "10-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Apple MacBook Pro 14 M3 Pro - ó¿ñ ßí«¬π.webp",
         alt: "Apple MacBook Pro 14 M3 Pro - клавиатура",
         isPrimary: false,
       },
@@ -677,19 +689,19 @@ export const products: Product[] = [
     images: [
       {
         id: "11-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG OLED65C3 - ¿¡ΓÑαΣÑ⌐ßδ.webp",
         alt: "LG OLED65C3 - вид спереди",
         isPrimary: true,
       },
       {
         id: "11-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG OLED65C3 - ó¿ñ ß»ÑαÑñ¿1.webp",
         alt: "LG OLED65C3 - вид сбоку",
         isPrimary: false,
       },
       {
         id: "11-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG OLED65C3 - ó¿ñ ßí«¬π.webp",
         alt: "LG OLED65C3 - интерфейсы",
         isPrimary: false,
       },
@@ -745,19 +757,19 @@ export const products: Product[] = [
     images: [
       {
         id: "12-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Neo QLED QE55QN90C - ¿¡ΓÑαΣÑ⌐ßδ.webp",
         alt: "Samsung Neo QLED QE55QN90C - вид спереди",
         isPrimary: true,
       },
       {
         id: "12-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Neo QLED QE55QN90C - ó¿ñ ßí«¬π.webp",
         alt: "Samsung Neo QLED QE55QN90C - вид сбоку",
         isPrimary: false,
       },
       {
         id: "12-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Samsung Neo QLED QE55QN90C - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "Samsung Neo QLED QE55QN90C - интерфейсы",
         isPrimary: false,
       },
@@ -810,19 +822,19 @@ export const products: Product[] = [
     images: [
       {
         id: "13-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Logitech MX Master 3S - ó απ¬Ñ.webp",
         alt: "Logitech MX Master 3S - вид сверху",
         isPrimary: true,
       },
       {
         id: "13-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Logitech MX Master 3S - ó¿ñ ßí«¬π.webp",
         alt: "Logitech MX Master 3S - вид сбоку",
         isPrimary: false,
       },
       {
         id: "13-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Logitech MX Master 3S - ó¿ñ ßóÑασπ.webp",
         alt: "Logitech MX Master 3S - в руке",
         isPrimary: false,
       },
@@ -873,19 +885,19 @@ export const products: Product[] = [
     images: [
       {
         id: "14-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Keychron Q1 Pro - »«ñßóÑΓ¬á.webp",
         alt: "Keychron Q1 Pro - вид сверху",
         isPrimary: true,
       },
       {
         id: "14-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Keychron Q1 Pro - ó¿ñ ßí«¬π.webp",
         alt: "Keychron Q1 Pro - вид сбоку",
         isPrimary: false,
       },
       {
         id: "14-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Keychron Q1 Pro - ó¿ñ ßóÑασπ.webp",
         alt: "Keychron Q1 Pro - подсветка",
         isPrimary: false,
       },
@@ -938,19 +950,19 @@ export const products: Product[] = [
     images: [
       {
         id: "15-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Dyson V15 Detect Absolute - åè-φ¬αá¡.webp",
         alt: "Dyson V15 Detect Absolute - общий вид",
         isPrimary: true,
       },
       {
         id: "15-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Dyson V15 Detect Absolute - ¡áßáñ¬á ß ½áºÑα«¼.webp",
         alt: "Dyson V15 Detect Absolute - насадка с лазером",
         isPrimary: false,
       },
       {
         id: "15-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/Dyson V15 Detect Absolute - «íΘ¿⌐ ó¿ñ.webp",
         alt: "Dyson V15 Detect Absolute - ЖК-экран",
         isPrimary: false,
       },
@@ -984,8 +996,6 @@ export const products: Product[] = [
     description:
       "LG F4V5VS9B - стиральная машина с фронтальной загрузкой, вместимостью 9 кг и технологией AI DD (искусственный интеллект для определения типа ткани). Оснащена инверторным мотором Direct Drive с 10-летней гарантией, функцией пара Steam для удаления аллергенов и разглаживания складок, и технологией TurboWash 360° для быстрой и эффективной стирки за 39 минут. Имеет 14 программ стирки, включая специальные режимы для разных типов тканей. Класс энергоэффективности A+++ (-30%), уровень шума при стирке 51 дБ, при отжиме 73 дБ. Максимальная скорость отжима 1400 об/мин.",
     shortDescription:
-      "  (-30%), уровень шума при стирке 51 дБ, при отжиме 73 дБ. Максимальная скорость отжима 1400 об/мин.",
-    shortDescription:
       "Стиральная машина с искусственным интеллектом AI DD и функцией пара Steam",
     specifications: [
       { name: "Тип загрузки", value: "Фронтальная" },
@@ -1002,19 +1012,19 @@ export const products: Product[] = [
     images: [
       {
         id: "16-1",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG F4V5VS9B - íáαáíá¡.webp",
         alt: "LG F4V5VS9B - вид спереди",
         isPrimary: true,
       },
       {
         id: "16-2",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG F4V5VS9B - »á¡Ñ½∞ π»αáó½Ñ¡¿∩.webp",
         alt: "LG F4V5VS9B - панель управления",
         isPrimary: false,
       },
       {
         id: "16-3",
-        url: "/placeholder.svg?height=300&width=300",
+        url: "/steelsmart/LG F4V5VS9B - ó¿ñ ß»ÑαÑñ¿.webp",
         alt: "LG F4V5VS9B - барабан",
         isPrimary: false,
       },
